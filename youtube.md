@@ -15,7 +15,7 @@ Youtube's recomendation algorithm is evil and an unsorted list of every subscrip
 : Math Doodles
 
 [Numberphile](https://www.youtube.com/user/numberphile/videos?disable_polymer=1)
-:Videos about numbers
+: Videos about numbers
 
 [Matt Parker](https://www.youtube.com/user/standupmaths/videos?disable_polymer=1)
 : More videos about numbers. Took me a while to realize it's not the same channel as numberphile.
@@ -82,13 +82,13 @@ Youtube's recomendation algorithm is evil and an unsorted list of every subscrip
 ## Chemistry and Metallurgy and whatnot
 
 [Periodic Videos](https://www.youtube.com/user/periodicvideos/videos?disable_polymer=1)
-:Videos about all the elements
+: Videos about all the elements
 
 [Cody's Lab](https://www.youtube.com/user/theCodyReeder/videos?disable_polymer=1)
 : Also features weird gardening experiments
 
 [How to Make Everything](https://www.youtube.com/channel/UCfIqCzQJXvYj9ssCoHq327g/videos?disable_polymer=1)
-:Was originally about making a sandwich completely from scratch. 
+: Was originally about making a sandwich completely from scratch. 
 
 
 
