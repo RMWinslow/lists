@@ -8,8 +8,8 @@ Youtube's recomendation algorithm is evil and an unsorted list of every subscrip
 
 ## Math
 
-[3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/videos?disable_polymer=1):
-Beautiful theorems
+[3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/videos?disable_polymer=1)
+: Beautiful theorems
 
 [Vihart](https://www.youtube.com/user/Vihart/videos?disable_polymer=1)
 : Math Doodles
@@ -21,26 +21,26 @@ Beautiful theorems
 : More videos about numbers. Took me a while to realize it's not the same channel as numberphile.
 
 [George Hart](https://www.youtube.com/channel/UCTl0dASnxto6j2wlVs5Bs2Q/videos?disable_polymer=1)
-:Origami
+: Origami
 
 
 
 ## Physics and Engineering
 
 [engineerguy](https://www.youtube.com/user/engineerguyvideo/videos?disable_polymer=1)
-:Elegant videos about everyday engineering marvels
+: Elegant videos about everyday engineering marvels
 
 [Illinois EnergyProf](https://www.youtube.com/channel/UCKH_iLhhkTyt8Dk4dmeCQ9w/videos?disable_polymer=1)
 : Clear lectures from Professor David Ruzic
 
 [Steve Mould](https://www.youtube.com/user/steventhebrave/videos)
-:Various Physics Visualizations
+: Various Physics Visualizations
 
 [Smarter Every Day](https://www.youtube.com/user/destinws2/videos)
-:Dude makin' videos on all sorts of stuff that interests him.
+: Dude makin' videos on all sorts of stuff that interests him.
 
 [Practical Engineering](https://www.youtube.com/user/gradyhillhouse/videos)
-:Small-scale demonstrations of civil engineering challenges
+: Small-scale demonstrations of civil engineering challenges
 
 [Veritasium](https://www.youtube.com/user/1veritasium/videos)
 :
@@ -97,10 +97,10 @@ Beautiful theorems
 ## Food and Cookery
 
 [Food Wishes](https://www.youtube.com/user/foodwishes/videos?disable_polymer=1)
-:Straightforward recipe videos
+: Straightforward recipe videos
 
 [Binging with Babish](https://www.youtube.com/user/bgfilms/videos?disable_polymer=1)
-:Mostly makes meme food
+: Mostly makes meme food
 
 [Bon Appétit](https://www.youtube.com/user/BonAppetitDotCom/videos?view=0&sort=p&flow=grid)
 : This is the one where they make gourmet skittles
@@ -115,10 +115,10 @@ Beautiful theorems
 : Amazing Places
 
 [Jay Foreman](https://www.youtube.com/user/jayforeman51/videos?disable_polymer=1)
-:Map Men and Unfinished London
+: Map Men and Unfinished London
 
 [Artifexian](https://www.youtube.com/user/Artifexian/videos)
-:Strange exoplanets and advice about imagining them
+: Strange exoplanets and advice about imagining them
 
 [CGP Grey](https://www.youtube.com/user/CGPGrey/videos?disable_polymer=1)
 : Mostly about flags and borders, but also about all sorts of stuff
@@ -147,7 +147,7 @@ Beautiful theorems
 : See also Lindsay Ellis' [personal channel](https://www.youtube.com/user/chezapoctube/videos?disable_polymer=1)
 
 [Captain Disillusion](https://www.youtube.com/user/CaptainDisillusion/videos?disable_polymer=1)
- Like a 90s childrens science show, but about digital effects
+: Like a 90s childrens science show, but about digital effects
 
 
 
@@ -157,7 +157,7 @@ Beautiful theorems
 ## Comedy
 
 [Aunty Donna](https://www.youtube.com/user/TheAuntyDonnaChannel/videos?disable_polymer=1)
-:Austrailian Sketch Comedy
+: Austrailian Sketch Comedy
 
 [Jenny Nicholson](https://www.youtube.com/user/JennyENicholson/videos?disable_polymer=1)
 : Why does she have so many porgs?
@@ -200,7 +200,7 @@ Beautiful theorems
 : Gizmos
 
 [Questing Beast](https://www.youtube.com/channel/UCvYwePdbWSEwUa-Pk02u3Zw/videos?disable_polymer=1)
-:Tabletop RPG Books
+: Tabletop RPG Books
 
 
 
@@ -253,7 +253,7 @@ Beautiful theorems
 : Neat little doodads
 
 [I Like To Make Stuff](https://www.youtube.com/user/iliketomakestuffcom/videos?disable_polymer=1)
-:Woodworking
+: Woodworking
 
 
 
@@ -261,7 +261,8 @@ Beautiful theorems
 
 ## Making Horrible Stuff
 
-[William Osman](https://www.youtube.com/channel/UCfMJ2MchTSW2kWaT0kK94Yw/videos?disable_polymer=1): Reckless disregard for laser safety
+[William Osman](https://www.youtube.com/channel/UCfMJ2MchTSW2kWaT0kK94Yw/videos?disable_polymer=1)
+: Reckless disregard for laser safety
 
 [StyroPyro](https://www.youtube.com/user/styropyro/videos?disable_polymer=1)
 : Nevermind. <i>This</i> is reckless disregard for laser safety 

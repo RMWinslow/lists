@@ -67,7 +67,7 @@ html {
 
 /* General settings */
 
-body {
+body .markdown-body {
     margin: auto;
     font: var(--serif);
     max-width: var(--maxbodywidth);
@@ -90,7 +90,7 @@ footer {
 
 img, iframe {border: none; max-width: 100%}
 
-a {color: var(--c6);  text-decoration:underline}
+a {color: var(--c1);  text-decoration:underline}
 
 a:hover {color: var(--c4); text-decoration: underline}
 
