@@ -42,7 +42,7 @@ Youtube's recomendation algorithm is evil and an unsorted list of every subscrip
 : Small-scale demonstrations of civil engineering challenges
 
 [Veritasium](https://www.youtube.com/user/1veritasium/videos)
-:
+: Assorted videos about science and education.
 
 
 
