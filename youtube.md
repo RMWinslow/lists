@@ -72,7 +72,8 @@ Youtube's recomendation algorithm is evil and an unsorted list of every subscrip
 [Nautilus](https://www.youtube.com/user/EVNautilus/videos?disable_polymer=1)
 : Deep Sea Livestreams
 
-
+[Octolab TV](https://www.youtube.com/channel/UCNo_xQ7NvTr31naPAcjQWjg/videos?disable_polymer=1)
+: Chill vids of little octodudes
 
 
 
@@ -173,7 +174,8 @@ Youtube's recomendation algorithm is evil and an unsorted list of every subscrip
 [Let's Game it Out](https://www.youtube.com/channel/UCto7D1L-MiRoOziCXK9uT5Q/videos?disable_polymer=1)
 : "As always, we're going to try to play this game as wrong as possible."
 
-
+[Alex Ernst](https://www.youtube.com/user/TheAlexErnstShow/videos)
+: Something something apple cider vinegar
 
 
 
@@ -301,8 +303,6 @@ Youtube's recomendation algorithm is evil and an unsorted list of every subscrip
 
 
 <!--Gloudas
-https://www.youtube.com/channel/UCNo_xQ7NvTr31naPAcjQWjg/videos
-https://www.youtube.com/user/TheAlexErnstShow/videos
 Thrifter's Guide to Geekery
 https://www.youtube.com/channel/UC9EPwKHQ9rFpquOGUILwQ2g/videos
 no intitive??
