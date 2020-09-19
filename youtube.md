@@ -6,10 +6,10 @@ Youtube's recomendation algorithm is evil and an unsorted list of every subscrip
 
 
 
-### Math
+## Math
 
-[3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/videos?disable_polymer=1)
-: Beautiful theorems
+[3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/videos?disable_polymer=1):
+Beautiful theorems
 
 [Vihart](https://www.youtube.com/user/Vihart/videos?disable_polymer=1)
 : Math Doodles
@@ -25,7 +25,7 @@ Youtube's recomendation algorithm is evil and an unsorted list of every subscrip
 
 
 
-### Physics and Engineering
+## Physics and Engineering
 
 [engineerguy](https://www.youtube.com/user/engineerguyvideo/videos?disable_polymer=1)
 :Elegant videos about everyday engineering marvels
@@ -47,7 +47,7 @@ Youtube's recomendation algorithm is evil and an unsorted list of every subscrip
 
 
 
-### Biology
+## Biology
 [Ben G Thomas](https://www.youtube.com/channel/UCDSzwZqgtJEnUzacq3ddoOQ/videos?disable_polymer=1)
 : Dino news
 
@@ -79,7 +79,7 @@ Youtube's recomendation algorithm is evil and an unsorted list of every subscrip
 
 
 
-### Chemistry and Metallurgy and whatnot
+## Chemistry and Metallurgy and whatnot
 
 [Periodic Videos](https://www.youtube.com/user/periodicvideos/videos?disable_polymer=1)
 :Videos about all the elements
@@ -94,7 +94,7 @@ Youtube's recomendation algorithm is evil and an unsorted list of every subscrip
 
 
 
-### Food and Cookery
+## Food and Cookery
 
 [Food Wishes](https://www.youtube.com/user/foodwishes/videos?disable_polymer=1)
 :Straightforward recipe videos
@@ -109,7 +109,7 @@ Youtube's recomendation algorithm is evil and an unsorted list of every subscrip
 
 
 
-### Interesting Places
+## Interesting Places
 
 [Tom Scott](https://www.youtube.com/user/enyay/videos?disable_polymer=1)
 : Amazing Places
@@ -135,7 +135,7 @@ Youtube's recomendation algorithm is evil and an unsorted list of every subscrip
 
 
 
-### Film and other media
+## Film and other media
 
 [YMS](https://www.youtube.com/user/YourMovieSucksDOTorg/videos?disable_polymer=1)
 : His "Top Ten Films of 2015" list has 39 entries and was published in 2018.
@@ -154,7 +154,7 @@ Youtube's recomendation algorithm is evil and an unsorted list of every subscrip
 
 
 
-### Comedy
+## Comedy
 
 [Aunty Donna](https://www.youtube.com/user/TheAuntyDonnaChannel/videos?disable_polymer=1)
 :Austrailian Sketch Comedy
@@ -179,7 +179,7 @@ Youtube's recomendation algorithm is evil and an unsorted list of every subscrip
 
 
 
-### Interesting collections
+## Interesting collections
 
 [Grand Illusions](https://www.youtube.com/user/henders007/videos)
 : Tim's Toy Collection
@@ -191,7 +191,7 @@ Youtube's recomendation algorithm is evil and an unsorted list of every subscrip
 
 
 
-### Reviews of stuff
+## Reviews of stuff
 
 [Ashens](https://www.youtube.com/user/ashens/videos?disable_polymer=1)
 : Reviews of dollar-store crud
@@ -207,7 +207,7 @@ Youtube's recomendation algorithm is evil and an unsorted list of every subscrip
 
 
 
-### Reviews of Board Games in particular
+## Reviews of Board Games in particular
 
 [Shut Up & Sit Down](https://www.youtube.com/channel/UCyRhIGDUKdIOw07Pd8pHxCw/videos?disable_polymer=1)
 : Skit-based board game reviews
@@ -229,7 +229,7 @@ Youtube's recomendation algorithm is evil and an unsorted list of every subscrip
 
 
 
-### Animated stuff
+## Animated stuff
 
 [Suncreature Studios](https://www.youtube.com/user/SunCreatureStudio/videos?disable_polymer=1)
 : Animated adventure shorts.
@@ -244,10 +244,10 @@ Youtube's recomendation algorithm is evil and an unsorted list of every subscrip
 
 
 
-### Making  Stuff
+## Making  Stuff
 
 [Slingshot Channel](https://www.youtube.com/user/JoergSprave/videos)
-:Strange Handmade Elastic-powered projectiles
+: Strange Handmade Elastic-powered projectiles
 
 [Pocket83](https://www.youtube.com/user/pocket83/videos?disable_polymer=1)
 : Neat little doodads
@@ -259,10 +259,9 @@ Youtube's recomendation algorithm is evil and an unsorted list of every subscrip
 
 
 
-### Making Horrible Stuff
+## Making Horrible Stuff
 
-[William Osman](https://www.youtube.com/channel/UCfMJ2MchTSW2kWaT0kK94Yw/videos?disable_polymer=1)
-: <s>Reckless disregard for laser safety</s> 
+[William Osman](https://www.youtube.com/channel/UCfMJ2MchTSW2kWaT0kK94Yw/videos?disable_polymer=1): Reckless disregard for laser safety
 
 [StyroPyro](https://www.youtube.com/user/styropyro/videos?disable_polymer=1)
 : Nevermind. <i>This</i> is reckless disregard for laser safety 
