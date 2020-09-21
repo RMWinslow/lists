@@ -7,23 +7,22 @@ Markdown | Less | Pretty
 
 English | Literal | Pinyin | 汉字 | picto 
 --- | --- | --- | --- | ---
-Hydrogen | water-former | Qīng | 氢 | also work gas?
-Helium | sun metal |  | 氦 | astrological pig gas
+Hydrogen | water-former | Qīng | 氢 | also labor gas?
+Helium | sun metal | Hài | 氦 | astrological pig gas
 Lithium | stone metal | Lǐ | 锂 | village metal
 Beryllium | beryl metal | Pī | 鈹 | feather metal 
 Boron | borax stuff | Péng | 硼 | friends stone
 Carbon | charcoal stuff | Tàn | 碳 | charcoal stone
 Nitrogen | saltpetre-former | Dàn | 氮 | flaming gas 
-Oxygen | acid-former | Yǎng | 氧 | goat vapor | Yin Air
-Fluorine | flowing chemical | Fú | 氟 | negative vapor (bow knife vapor)
+Oxygen | acid-former | Yǎng | 氧 | goat vapor 
+Fluorine | flowing chemical | Fú | 氟 | gas vapor (bow knife gas)
 Neon | new stuff | Nǎi | 氖 | indeed gas
 Sodium | soda metal | Nà | 鈉 | inside metal
 Magnesium | metal from the Magnesia Prefecture | Měi | 鎂 | beautiful metal
-Aluminum | alum metal | Lǚ | 鋁 | Lu Metal (musical note/name)
+Aluminum | alum metal | Lǚ | 鋁 | Lu metal (musical note/name)
 Silicon | flint stuff | Guī | 硅 | pointed jade stone
 Phosphorus  | light-bearer, the morning star | Lín | 磷 | phosporous stone? (mistaken rice stone)
-Sulfur | sulfur | Liú | 硫 | Wasteland stone (secret river head stone)
-Sulfur | sulfur | Liú | 硫 | Wasteland stone (secret river head stone)
+Sulfur | sulfur | Liú | 硫 | wasteland stone (secret river head stone)
 Chlorine | chartreuse chemical | Lǜ | 氯 | record gas
 Argon | lazy stuff | Yà | 氩 | Asia/second gas
  |  |  |  | 
@@ -42,7 +41,7 @@ Lead | ? | Qiān | 铅 | marsh metal
 
 Another theory, considered far-fetched in some quarters, traces it to Medieval Latin sodanum "a headache remedy," ultimately from Arabic suda "splitting headache."
 azoth/azote = lifeless Yang Air
-helium aka 氦 sun vapor
+helium aka 氦 sun vapor| Yin Air
 亞
 
 https://elements.vanderkrogt.net/ptable.php
