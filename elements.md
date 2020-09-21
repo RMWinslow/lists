@@ -14,7 +14,7 @@ Beryllium | beryl metal | Pī | 鈹 | feather metal
 Boron | borax stuff | Péng | 硼 | friends stone
 Carbon | charcoal stuff | Tàn | 碳 | charcoal stone
 Nitrogen | saltpetre-former | Dàn | 氮 | flaming gas 
-Oxygen | acid-former | Yǎng | 氧 | goat vapor 
+Oxygen | acid-former | Yǎng | 氧 | goat gas 
 Fluorine | flowing chemical | Fú | 氟 | negative gas (bow knife gas)
 Neon | new stuff | Nǎi | 氖 | indeed gas
 Sodium | soda metal | Nà | 鈉 | inside metal
