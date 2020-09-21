@@ -15,7 +15,7 @@ Boron | borax stuff | Péng | 硼 | friends stone
 Carbon | charcoal stuff | Tàn | 碳 | charcoal stone
 Nitrogen | saltpetre-former | Dàn | 氮 | flaming gas 
 Oxygen | acid-former | Yǎng | 氧 | goat vapor 
-Fluorine | flowing chemical | Fú | 氟 | gas vapor (bow knife gas)
+Fluorine | flowing chemical | Fú | 氟 | negative gas (bow knife gas)
 Neon | new stuff | Nǎi | 氖 | indeed gas
 Sodium | soda metal | Nà | 鈉 | inside metal
 Magnesium | metal from the Magnesia Prefecture | Měi | 鎂 | beautiful metal
