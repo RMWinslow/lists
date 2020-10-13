@@ -3,3 +3,7 @@ My style of html is more compact.
 Are the links better looking when red?
 Is it better to have all the directories pointing towards the same css?
 Is the definition indentation better looking for this kind of thing? I think so. But maybe too much whitespace.
+
+
+benbalter/retlab is a good looking theme for this kind of thing. But to modify the css, you need to change the _layouts/default.html to include a line like 
+    <link href="https://www.robertmwinslow.com/lists/mystyle.css"  rel="stylesheet" media="screen">
