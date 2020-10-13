@@ -1,3 +1,13 @@
+---
+title: "How to Write a Great Research Paper"
+categories:
+  - youtube
+tags:
+  - paper writing
+  - advice
+  - research
+---
+
 
 # Youtube Channels
 
