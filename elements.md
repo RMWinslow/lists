@@ -43,10 +43,11 @@ azoth/azote = lifeless Yang Air
 helium aka 氦 sun vapor| Yin Air
 亞
 
-https://elements.vanderkrogt.net/ptable.php
-https://elements.vanderkrogt.net/didnot.php
-https://en.wikipedia.org/wiki/List_of_chemical_element_name_etymologies
-https://www.mdbg.net/chinese/dictionary
-https://www.pascal-man.com/periodic-table/periodictable-dave-lo.pdf
-https://anglish.fandom.com/wiki/Fading_of_Ormotes
-https://www.yellowbridge.com/chinese/character-dictionary.php
+### Links I used to make this table:
+
+- [Periodic table color-coded by origin of name.](https://elements.vanderkrogt.net/ptable.php)
+- [Wiki article on Element Name Etymologies](https://en.wikipedia.org/wiki/List_of_chemical_element_name_etymologies)
+- [Chinese dictionary with character decomposition](https://www.mdbg.net/chinese/dictionary)
+- [English-Chinese Periodic Table of Elements](https://www.pascal-man.com/periodic-table/periodictable-dave-lo.pdf)
+- [A list of element names goofily adapted to only use germanic roots.](https://anglish.fandom.com/wiki/Fading_of_Ormotes)
+- [Another hanzi decomposition tool.](https://www.yellowbridge.com/chinese/character-dictionary.php)
