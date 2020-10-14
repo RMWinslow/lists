@@ -3,8 +3,7 @@ title: "Youtube Channels"
 description: "Youtube's recomendation algorithm is evil and an unsorted list of every subscription isn't great for finding stuff I want to watch, so I made a categorized list of youtube channels that I like to check occasionally"
 ---
 
-
-# Youtube Channels
+Ey 
 
 Youtube's recomendation algorithm is evil and an unsorted list of every subscription isn't great for finding stuff I want to watch, so I made a categorized list of youtube channels that I like to check occasionally.
 
