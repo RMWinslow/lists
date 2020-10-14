@@ -7,3 +7,6 @@ Is the definition indentation better looking for this kind of thing? I think so.
 
 benbalter/retlab is a good looking theme for this kind of thing. But to modify the css, you need to change the _layouts/default.html to include a line like 
     <link href="https://www.robertmwinslow.com/lists/mystyle.css"  rel="stylesheet" media="screen">
+
+This implementation of minimal mistakes is pretty
+https://zenglix.github.io/bash/
