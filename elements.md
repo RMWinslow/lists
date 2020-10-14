@@ -2,7 +2,7 @@
 title: Etymology of element names.
 ---
 
-
+The "picto" column below represents a silly sort of literal interpretation of the radicals that make up the hanzi character.
 
 English | Literal | Pinyin | 汉字 | picto 
 --- | --- | --- | --- | ---
