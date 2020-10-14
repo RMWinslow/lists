@@ -27,7 +27,7 @@
     <!--SEO gubbins-->
     <meta name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}">
     <meta name="author" content="Robert Winslow">
-    <link rel="canonical" href="..">
+    <link rel="canonical" href='{{page.url | replace: "index.html", "" | absolute_url}}'>
     
     <meta property="og:type" content="website">
     <meta property="og:locale" content="en_US" />
