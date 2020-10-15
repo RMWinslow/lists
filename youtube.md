@@ -25,7 +25,6 @@ Youtube's recomendation algorithm is evil and an unsorted list of every subscrip
 : Origami
 
 
-<aside>This is a test</aside>
 
 ## Physics and Engineering
 
