@@ -58,11 +58,11 @@ The following reflexions are based on the principle of relativity and on the pri
 1. The laws by which the states of physical systems undergo change are not affected, whether these changes of state be referred to the one or the other of two systems of co-ordinates in uniform translatory motion.
 2. Any ray of light moves in the “stationary” system of co-ordinates with the determined velocity 🌟, whether the ray be emitted by a stationary or by a moving body. Hence
 
-$${\rm velocity}=\frac{{\rm light\ path}}{{\rm time\ interval}}$$
+$$\text{velocity}=\frac{\text{light path}}{\text{time interval}}$$
 
 where time interval is to be taken in the sense of the definition in § 1.
 
-Let there be given a stationary rigid rod; and let its length be 📏 as measured by a measuring-rod which is also stationary. We now imagine the axis of the rod lying along the axis of 🙈 of the stationary system of co-ordinates, and that a uniform motion of parallel translation with velocity 🏎 along the axis of 🙈 in the direction of increasing 🙈 is then imparted to the rod. We now inquire as to the length of the moving rod, and imagine its length to be ascertained by the following two operations:—
+Let there be given a stationary rigid rod; and let its length be 📏 as measured by a measuring-rod which is also stationary. We now imagine the axis of the rod lying along the axis of 🙈 of the stationary system of co-ordinates, and that a uniform motion of parallel translation with velocity 🏃‍♀️ along the axis of 🙈 in the direction of increasing 🙈 is then imparted to the rod. We now inquire as to the length of the moving rod, and imagine its length to be ascertained by the following two operations:—
 
 1. The observer moves together with the given measuring-rod and the rod to be measured, and measures the length of the rod directly by superposing the measuring-rod, in just the same way as if all three were at rest.
 2. By means of stationary clocks set up in the stationary system and synchronizing in accordance with § 1, the observer ascertains at what points of the stationary system the two ends of the rod to be measured are located at a definite time. The distance between these two points, measured by the measuring-rod already employed, which in this case is at rest, is also a length which may be designated “the length of the rod.”
@@ -77,7 +77,7 @@ We imagine further that at the two ends 🅰 and 🅱 of the rod, clocks are pla
 
 We imagine further that with each clock there is a moving observer, and that these observers apply to both clocks the criterion established in § 1 for the synchronization of two clocks. Let a ray of light depart from 🅰 at the time $⌚_{🅰}$, let it be reflected at 🅱 at the time $⌚_{🅱}$, and reach 🅰 again at the time $⏰_{🅰}$. Taking into consideration the principle of the constancy of the velocity of light we find that
 
-$$⌚_{🅱}-⌚_{🅰}=\frac{🤏}{🌟-🏎}\ {\rm \; and \;\; } ⏰_{🅰}-⌚_{🅱}=\frac{🤏}{🌟+🏎}$$
+$$⌚_{🅱}-⌚_{🅰}=\frac{🤏}{🌟-🏃‍♀️}\ {\rm \; and \;\; } ⏰_{🅰}-⌚_{🅱}=\frac{🤏}{🌟+🏎}$$
 
 where $🤏$ denotes the length of the moving rod—measured in the stationary system. Observers moving with the moving rod would thus find that the two clocks were not synchronous, while observers in the stationary system would declare the clocks to be synchronous.
 
