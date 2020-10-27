@@ -62,7 +62,7 @@ $$\text{velocity}=\frac{\text{light path}}{\text{time interval}}$$
 
 where time interval is to be taken in the sense of the definition in § 1.
 
-Let there be given a stationary rigid rod; and let its length be 📏 as measured by a measuring-rod which is also stationary. We now imagine the axis of the rod lying along the axis of 🙈 of the stationary system of co-ordinates, and that a uniform motion of parallel translation with velocity 🏃‍♀️ along the axis of 🙈 in the direction of increasing 🙈 is then imparted to the rod. We now inquire as to the length of the moving rod, and imagine its length to be ascertained by the following two operations:—
+Let there be given a stationary rigid rod; and let its length be 📏 as measured by a measuring-rod which is also stationary. We now imagine the axis of the rod lying along the axis of 🙈 of the stationary system of co-ordinates, and that a uniform motion of parallel translation with velocity 🏃 along the axis of 🙈 in the direction of increasing 🙈 is then imparted to the rod. We now inquire as to the length of the moving rod, and imagine its length to be ascertained by the following two operations:—
 
 1. The observer moves together with the given measuring-rod and the rod to be measured, and measures the length of the rod directly by superposing the measuring-rod, in just the same way as if all three were at rest.
 2. By means of stationary clocks set up in the stationary system and synchronizing in accordance with § 1, the observer ascertains at what points of the stationary system the two ends of the rod to be measured are located at a definite time. The distance between these two points, measured by the measuring-rod already employed, which in this case is at rest, is also a length which may be designated “the length of the rod.”
@@ -77,7 +77,7 @@ We imagine further that at the two ends 🅰 and 🅱 of the rod, clocks are pla
 
 We imagine further that with each clock there is a moving observer, and that these observers apply to both clocks the criterion established in § 1 for the synchronization of two clocks. Let a ray of light depart from 🅰 at the time $⌚_{🅰}$, let it be reflected at 🅱 at the time $⌚_{🅱}$, and reach 🅰 again at the time $⏰_{🅰}$. Taking into consideration the principle of the constancy of the velocity of light we find that
 
-$$⌚_{🅱}-⌚_{🅰}=\frac{🤏}{🌟-🏃‍♀️}\ {\rm \; and \;\; } ⏰_{🅰}-⌚_{🅱}=\frac{🤏}{🌟+🏎}$$
+$$⌚_{🅱}-⌚_{🅰}=\frac{🤏}{🌟-🏃‍}\ {\rm \; and \;\; } ⏰_{🅰}-⌚_{🅱}=\frac{🤏}{🌟+🏃}$$
 
 where $🤏$ denotes the length of the moving rod—measured in the stationary system. Observers moving with the moving rod would thus find that the two clocks were not synchronous, while observers in the stationary system would declare the clocks to be synchronous.
 
@@ -88,7 +88,7 @@ So we see that we cannot attach any absolute signification to the concept of sim
 
 Let us in “stationary” space take two systems of co-ordinates, i.e. two systems, each of three rigid material lines, perpendicular to one another, and issuing from a point. Let the axes of 🙈 of the two systems coincide, and their axes of 🙉 and 🙊 respectively be parallel. Let each system be provided with a rigid measuring-rod and a number of clocks, and let the two measuring-rods, and likewise all the clocks of the two systems, be in all respects alike.
 
-Now to the origin of one of the two systems (😅) let a constant velocity 🏎 be imparted in the direction of the increasing 🙈 axis of the other stationary system (😂), and let this velocity be communicated to the axes of the co-ordinates, the relevant measuring-rod, and the clocks. To any time of the stationary system 😂 there then will correspond a definite position of the axes of the moving system, and from reasons of symmetry we are entitled to assume that the motion of 😅 may be such that the axes of the moving system are at the time ⏱ (this “⏱” always denotes a time of the stationary system) parallel to the axes of the stationary system.
+Now to the origin of one of the two systems (😅) let a constant velocity 🏃 be imparted in the direction of the increasing 🙈 axis of the other stationary system (😂), and let this velocity be communicated to the axes of the co-ordinates, the relevant measuring-rod, and the clocks. To any time of the stationary system 😂 there then will correspond a definite position of the axes of the moving system, and from reasons of symmetry we are entitled to assume that the motion of 😅 may be such that the axes of the moving system are at the time ⏱ (this “⏱” always denotes a time of the stationary system) parallel to the axes of the stationary system.
 
 We now imagine space to be measured from the stationary system 😂 by means of the stationary measuring-rod, and also from the moving system 😅 by means of the measuring-rod moving with it; and that we thus obtain the co-ordinates 🙈, 🙉, 🙊, and $😻$, $🙀$, $😽$ respectively. Further, let the time ⏱ of the stationary system be determined for all points thereof at which there are clocks by means of light signals in the manner indicated in § 1; similarly let the time $🕰$ of the moving system be determined for all points of the moving system at which there are clocks at rest relatively to that system by applying the method, given in § 1, of light signals between the points at which the latter clocks are located.
 
@@ -96,56 +96,56 @@ To any system of values 🙈, 🙉, 🙊, ⏱ which completely defines the place
 
 In the first place it is clear that the equations must be *linear* on account of the properties of homogeneity which we attribute to space and time.
 
-If we place $🐵=🙈-🏎⏱$, it is clear that a point at rest in the system 😅 must have a system of values 🐵, 🙉, 🙊, independent of time. We first define $🕰$ as a function of 🐵, 🙉, 🙊, and ⏱. To do this we have to express in equations that $🕰$ is nothing else than the summary of the data of clocks at rest in system 😅, which have been synchronized according to the rule given in § 1.
+If we place $🐵=🙈-🏃⏱$, it is clear that a point at rest in the system 😅 must have a system of values 🐵, 🙉, 🙊, independent of time. We first define $🕰$ as a function of 🐵, 🙉, 🙊, and ⏱. To do this we have to express in equations that $🕰$ is nothing else than the summary of the data of clocks at rest in system 😅, which have been synchronized according to the rule given in § 1.
 
 From the origin of system 😅 let a ray be emitted at the time $🕰_0$ along the 🙈-axis to 🐵, and at the time $🕰_1$ be reflected thence to the origin of the co-ordinates, arriving there at the time $🕰_2$; we then must have $\frac{1}{2}(🕰_0+🕰_2)=🕰_1$, or, by inserting the arguments of the function $🕰$ and applying the principle of the constancy of the velocity of light in the stationary system:—
 
-$$\frac{1}{2}\left[  🕰(0,0,0,⏱) + 🕰\left(0,0,0, ⏱+\frac{🐵}{🌟-🏎}+\frac{🐵}{🌟+🏎} \right)  \right]   =  🕰\left(🐵,0,0, ⏱+\frac{🐵}{🌟-🏎}\right)$$
+$$\frac{1}{2}\left[  🕰(0,0,0,⏱) + 🕰\left(0,0,0, ⏱+\frac{🐵}{🌟-🏃}+\frac{🐵}{🌟+🏃} \right)  \right]   =  🕰\left(🐵,0,0, ⏱+\frac{🐵}{🌟-🏃}\right)$$
 
 
 Hence, if 🐵 be chosen infinitesimally small,
 
-$$\frac{1}{2}\left(\frac{1}{🌟-🏎}+\frac{1}{🌟+🏎}\right)\frac{\partial🕰}{\partial ⏱}    =    \frac{\partial 🕰}{\partial 🐵} + \frac{1}{🌟-🏎}\frac{\partial🕰}{\partial ⏱},$$
+$$\frac{1}{2}\left(\frac{1}{🌟-🏃}+\frac{1}{🌟+🏃}\right)\frac{\partial🕰}{\partial ⏱}    =    \frac{\partial 🕰}{\partial 🐵} + \frac{1}{🌟-🏃}\frac{\partial🕰}{\partial ⏱},$$
 
 or
 
-$$\frac{\partial 🕰}{\partial 🐵} + \frac{🏎}{🌟^2-🏎^2} \frac{\partial🕰}{\partial ⏱} = 0$$
+$$\frac{\partial 🕰}{\partial 🐵} + \frac{🏃}{🌟^2-🏃^2} \frac{\partial🕰}{\partial ⏱} = 0$$
 
 It is to be noted that instead of the origin of the co-ordinates we might have chosen any other point for the point of origin of the ray, and the equation just obtained is therefore valid for all values of 🐵, 🙉, 🙊.
 
-An analogous consideration—applied to the axes of 🙉 and 🙊—it being borne in mind that light is always propagated along these axes, when viewed from the stationary system, with the velocity $\sqrt{🌟^2-🏎^2}$ gives us
+An analogous consideration—applied to the axes of 🙉 and 🙊—it being borne in mind that light is always propagated along these axes, when viewed from the stationary system, with the velocity $\sqrt{🌟^2-🏃^2}$ gives us
 
 $$\frac{\partial 🕰}{\partial 🙉} = 0,\;\;  \frac{\partial 🕰}{\partial 🙊} = 0$$
 
 Since $🕰$ is a *linear* function, it follows from these equations that
 
-$$🕰 = 📋\left(⏱-\frac{🏎}{🌟^2-🏎^2}🐵\right)$$
+$$🕰 = 📋\left(⏱-\frac{🏃}{🌟^2-🏃^2}🐵\right)$$
 
-where 📋 is a function $🗒(🏎)$ at present unknown, and where for brevity it is assumed that at the origin of 😅, $🕰 =0$ when ⏱=0.
+where 📋 is a function $🗒(🏃)$ at present unknown, and where for brevity it is assumed that at the origin of 😅, $🕰 =0$ when ⏱=0.
 
 With the help of this result we easily determine the quantities 😻, 🙀, 😽 by expressing in equations that light (as required by the principle of the constancy of the velocity of light, in combination with the principle of relativity) is also propagated with velocity c when measured in the moving system. For a ray of light emitted at the time $🕰 =0$ in the direction of the increasing $😻$
 
-$$😻 = 🌟🕰 \text{\;\; or \;\;} 😻=📋🌟\left(⏱-\frac{🏎}{🌟^2-🏎^2}🐵\right)$$
+$$😻 = 🌟🕰 \;\;\text{ or } \;\; 😻=📋🌟\left(⏱-\frac{🏃}{🌟^2-🏃^2}🐵\right)$$
 
-But the ray moves relatively to the initial point of 😅, when measured in the stationary system, with the velocity 🌟-🏎, so that
+But the ray moves relatively to the initial point of 😅, when measured in the stationary system, with the velocity 🌟-🏃, so that
 
-$$\frac{🐵}{🌟-🏎} = ⏱$$
+$$\frac{🐵}{🌟-🏃} = ⏱$$
 
 If we insert this value of ⏱ in the equation for $😻$, we obtain
 
-$$😻 = 📋\frac{🌟^2}{🌟^2-🏎^2}🐵$$
+$$😻 = 📋\frac{🌟^2}{🌟^2-🏃^2}🐵$$
 
 In an analogous manner we find, by considering rays moving along the two other axes, that
 
-$$🙀 = 🌟🕰 = 📋🌟\left(⏱-\frac{🏎}{🌟^2-🏎^2}🐵\right)$$
+$$🙀 = 🌟🕰 = 📋🌟\left(⏱-\frac{🏃}{🌟^2-🏃^2}🐵\right)$$
 
 when
 
-$$\frac{🙉}{\sqrt{🌟^2-🏎^2}} = ⏱,\;\;  🐵=0$$
+$$\frac{🙉}{\sqrt{🌟^2-🏃^2}} = ⏱,\;\;  🐵=0$$
 
 Thus
 
-$$🙀 = 📋\frac{🌟}{\sqrt{🌟^2-🏎^2}}🙉 \text{\;\; and \;\;}  😽 = 📋\frac{🌟}{\sqrt{🌟^2-🏎^2}}🙊$$
+$$🙀 = 📋\frac{🌟}{\sqrt{🌟^2-🏃^2}}🙉 \text{\;\; and \;\;}  😽 = 📋\frac{🌟}{\sqrt{🌟^2-🏃^2}}🙊$$
 
 Substituting for 🐵 its value, we obtain
 
@@ -156,14 +156,18 @@ $$\begin{align*}
 
 $$
 \begin{align*}
-    \tau & = & \phi(v)\beta(t-vx/c^2), \\
-    \xi & = & \phi(v)\beta(x-vt), \\ 
-    \eta & = & \phi(v)y, \\ 
-    \zeta & = & \phi(v)z, \\
+    🕰 & = 🗒(🏃)\beta(⏱-🏃🙈/🌟^2), \\
+    😻 & = 🗒(🏃)\beta(🙈-🏃⏱), \\ 
+    🙀 & = 🗒(🏃)🙉, \\ 
+    😽 & = 🗒(🏃)🙊, \\
 \end{align*}
 $$
 
+where
 
+$$\beta = \frac{1}{\sqrt{1-🏃^2/🌟^2}}$$
+
+and $🗒$ is an as yet unknown function of 🏃. If no assumption whatever be made as to the initial position of the moving system and as to the zero point of $🕰$, an additive constant is to be placed on the right side of each of these equations.
 
 
 
