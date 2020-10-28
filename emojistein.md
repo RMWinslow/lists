@@ -28,7 +28,7 @@ It might appear possible to overcome all the difficulties attending the definiti
 
 We might, of course, content ourselves with time values determined by an observer stationed together with the watch at the origin of the co-ordinates, and co-ordinating the corresponding positions of the hands with light signals, given out by every event to be timed, and reaching him through empty space. But this co-ordination has the disadvantage that it is not independent of the standpoint of the observer with the watch or clock, as we know from experience. We arrive at a much more practical determination along the following line of thought.
 
-If at the point 🅰️ of space there is a clock, an observer at 🅰️ can determine the time values of events in the immediate proximity of 🅰️ by finding the positions of the hands which are simultaneous with these events. If there is at the point 🅱️ of space another clock in all respects resembling the one at 🅰️, it is possible for an observer at 🅱️ to determine the time values of events in the immediate neighbourhood of 🅱️. But it is not possible without further assumption to compare, in respect of time, an event at A with an event at 🅱️. We have so far defined only an “🅰️ time” and a “🅱️ time.” We have not defined a common “time” for 🅰️ and 🅱️, for the latter cannot be defined at all unless we establish by definition that the “time” required by light to travel from 🅰️ to 🅱️ equals the “time” it requires to travel from 🅱️ to 🅰️. Let a ray of light start at the "🅰️ time" $⌚\_🅰️$ from 🅰 towards 🅱, let it at the “🅱 time” $⌚_🅱$ be reflected at 🅱 in the direction of 🅰, and arrive again at 🅰 at the “🅰 time” $⏰_{🅰}$.
+If at the point 🅰️ of space there is a clock, an observer at 🅰️ can determine the time values of events in the immediate proximity of 🅰️ by finding the positions of the hands which are simultaneous with these events. If there is at the point 🅱️ of space another clock in all respects resembling the one at 🅰️, it is possible for an observer at 🅱️ to determine the time values of events in the immediate neighbourhood of 🅱️. But it is not possible without further assumption to compare, in respect of time, an event at A with an event at 🅱️. We have so far defined only an “🅰️ time” and a “🅱️ time.” We have not defined a common “time” for 🅰️ and 🅱️, for the latter cannot be defined at all unless we establish by definition that the “time” required by light to travel from 🅰️ to 🅱️ equals the “time” it requires to travel from 🅱️ to 🅰️. Let a ray of light start at the "🅰️ time" $$⌚_🅰️$$ from 🅰 towards 🅱, let it at the “🅱 time” $$⌚_🅱$$ be reflected at 🅱 in the direction of 🅰, and arrive again at 🅰 at the “🅰 time” $$⏰_{🅰}$$.
 
 In accordance with definition the two clocks synchronize if
 
@@ -168,6 +168,45 @@ where
 $$\beta = \frac{1}{\sqrt{1-🏃^2/🌟^2}}$$
 
 and $🗒$ is an as yet unknown function of 🏃. If no assumption whatever be made as to the initial position of the moving system and as to the zero point of $🕰$, an additive constant is to be placed on the right side of each of these equations.
+
+We now have to prove that any ray of light, measured in the moving system, is propagated with the velocity 🌟, if, as we have assumed, this is the case in the stationary system; for we have not as yet furnished the proof that the principle of the constancy of the velocity of light is compatible with the principle of relativity.
+
+At the time $⏱=🕰=0$, when the origin of the co-ordinates is common to the two systems, let a spherical wave be emitted therefrom, and be propagated with the velocity 🌟 in system 😂. If (🐵, 🙉, 🙊) be a point just attained by this wave, then
+
+$$🐵^2 + 🙉^2 + 🙊^2 = 🌟^2 ⏱^2.$$
+
+Transforming this equation with the aid of our equations of transformation we obtain after a simple calculation
+
+$$ 😻^2 + 🙀^2, 😽^2 = 🌟^2 🕰^2. $$
+
+The wave under consideration is therefore no less a spherical wave with velocity of propagation 🌟 when viewed in the moving system. This shows that our two fundamental principles are compatible.
+
+In the equations of transformation which have been developed there enters an unknown function $🗒$ of 🏃, which we will now determine.
+
+For this purpose we introduce a third system of co-ordinates ${\rm K}'$, which relatively to the system k is in a state of parallel translatory motion parallel to the axis of $\Xi$,*1 such that the origin of co-ordinates of system ${\rm K}'$, moves with velocity -v on the axis of $\Xi$. At the time t=0 let all three origins coincide, and when t=x=y=z=0 let the time t' of the system ${\rm K}'$ be zero. We call the co-ordinates, measured in the system ${\rm K}'$, x', y', z', and by a twofold application of our equations of transformation we obtain
+
+\begin{displaymath}\begin{array}{lllll} t' & = & \phi(-v)\beta(-v)(\tau+v\xi/c^2... ... z' & = & \phi(-v)\zeta & = & \phi(v)\phi(-v)z.\ \end{array}\end{displaymath}
+Since the relations between x', y', z' and x, y, z do not contain the time t, the systems K and ${\rm K}'$ are at rest with respect to one another, and it is clear that the transformation from K to ${\rm K}'$ must be the identical transformation. Thus
+
+\begin{displaymath}\phi(v)\phi(-v)=1. \end{displaymath}
+We now inquire into the signification of $\phi(v)$. We give our attention to that part of the axis of Y of system k which lies between $\xi=0, \eta=0, \zeta=0$ and $\xi=0, \eta=l, \zeta=0$. This part of the axis of Y is a rod moving perpendicularly to its axis with velocity v relatively to system K. Its ends possess in K the co-ordinates
+
+\begin{displaymath}x_1=vt,\ y_1=\frac{l}{\phi(v)},\ z_1=0 \end{displaymath}
+
+and
+\begin{displaymath}x_2=vt,\ y_2=0,\ z_2=0. \end{displaymath}
+The length of the rod measured in K is therefore $l/\phi(v)$; and this gives us the meaning of the function $\phi(v)$. From reasons of symmetry it is now evident that the length of a given rod moving perpendicularly to its axis, measured in the stationary system, must depend only on the velocity and not on the direction and the sense of the motion. The length of the moving rod measured in the stationary system does not change, therefore, if v and -v are interchanged. Hence follows that $l/\phi(v)=l/\phi(-v)$, or
+
+\begin{displaymath}\phi(v)=\phi(-v). \end{displaymath}
+It follows from this relation and the one previously found that $\phi(v)=1$, so that the transformation equations which have been found become
+
+\begin{eqnarray*}\tau & = & \beta(t-vx/c^2), \ \xi & = & \beta(x - vt), \ \eta & = & y, \ \zeta & = & z, \ \end{eqnarray*}
+where
+
+\begin{displaymath}\beta=1/\sqrt{1-v^2/c^2}. \end{displaymath}
+
+
+
 
 
 
