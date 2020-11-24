@@ -82,6 +82,8 @@ Models heterogeneity of disease transmission using compound probability distribu
 : *2005 - J. O. Lloyd-Smith, S. J. Schreiber, P. E. Kopp & W. M. Getz*  
 Models heterogeneity of disease transmission using compound probability distributions. Gamma-Poisson-mixture seems to be the best match for diseases like SARS. Defines "superspreading". Contains details about branching models and extinction using probability generating functions.
 
+<aside>I don't remember, did I include this little trick in my css?</aside>
+
 **Superspreading and the effect of individual variation on disease emergence [Scrutinized]** 
 : *2005 Nov - J. O. Lloyd-Smith, S. J. Schreiber, P. E. Kopp & W. M. Getz - [Scrutinized]*  
 - Models heterogeneity of disease transmission using compound probability distributions. 
