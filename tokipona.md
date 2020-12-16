@@ -24,6 +24,9 @@ There are other toki pona emoji encodings out there, but this one is slightly tw
 | $\frown$    | ike            |       | bad                         |
 | $\pitchfork$    | ilo            |       | tool                        |
 | $\Subset$    | insa           |       | inside                      |
+
+
+
 |     | jaki           |       | dirty                       |
 | $\curlywedge$    | jan            |       | person                      |
 | \\(\colorbox{gold}{$\lambda$}\\)    | jelo           |       | yellow/light green          |
