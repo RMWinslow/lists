@@ -24,17 +24,15 @@ There are other toki pona emoji encodings out there, but this one is slightly tw
 | $\frown$    | ike            |       | bad                         |
 | $\pitchfork$    | ilo            |       | tool                        |
 | $\Subset$    | insa           |       | inside                      |
-
-
-
 |     | jaki           |       | dirty                       |
 | $\curlywedge$    | jan            |       | person                      |
-| \\(\colorbox{gold}{$\lambda$}\\)    | jelo           |       | yellow/light green          |
+| $$\colorbox{gold}{$\lambda$}$$    | jelo           |       | yellow/light green          |
 | $\owns$    | jo             |       | have                        |
 | $\propto$    | kala           |       | fish                        |
 | $\natural$    | kalama         |       | sound                       |
 |     | kama           |       | come                        |
 | $\clubsuit$    | kasi           |       | plant                       |
+
 | $\checkmark$    | ken            |       | can                         |
 |     | kepeken        |       | use                         |
 |     | kili           |       | fruit                       |
