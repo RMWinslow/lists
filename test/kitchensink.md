@@ -162,6 +162,11 @@ and another term
 
 
 
+
+
+
+
+
 ## Html elements
 
 add markdown="block" or markdown="span" to make the contents render
@@ -229,6 +234,15 @@ Same thing but without markdown rendering
 I should probably change it to use classes for these things. A ".card", ".row", etc would work fine, That's apparently the standard for minimal css stuff like [this one](http://classless.de/)
 
 
+
+
+
+
+
+
+
+
+
 ## Span elements like text modifiers
 
 Here's some **strong bold text** and here's some *emphasized italic text*.
@@ -238,6 +252,24 @@ Here's a a [link](http://kramdown.gettalong.org "title text goes here") to the k
 Links can also be defined via references like this: A link to the [kramdown hp].
 
 [kramdown hp]: http://kramdown.gettalong.org "hp"
+
+Here's an image: ![Title text goes here](bigtestimage.png)
+
+![Title text goes here](bigtestimage.png)
+
+Inline code `like this` yeh
+
+Footnotes are notstandard, but included in kramdown [^1].
+
+[^1]: And here is the content of the footnote.
+
+Abbriviations are also included in kramdown. This is an HTML example.
+
+*[HTML]: Hyper Text Markup Language
+
+This is <span style="color: red">written *in* red</span>.
+
+This is *red*{: style="color: red"}.
 
 
 
