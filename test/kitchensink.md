@@ -135,8 +135,7 @@ and another term
 | cell1   | cell2   | cell3   |
 | cell4   | cell5   | cell6   |
 |=====
-| Foot1   | Foot2   | Foot3
-{: rules="groups"}
+| Foot1   | Foot2   | Foot3 |
 
 | Header1 | Header2 | Header3 |
 |:--------|:-------:|--------:|
@@ -146,8 +145,7 @@ and another term
 | cell1   | cell2   | cell3   |
 | cell4   | cell5   | cell6   |
 |=====
-| Foot1   | Foot2   | Foot3
-{: rules="all"}
+| Foot1   | Foot2   
 
 | Header1 | Header2 | Header3 |
 |:--------|:-------:|--------:|
@@ -159,6 +157,8 @@ and another term
 |=====
 | Foot1   | Foot2   | Foot3
 {: rules="none"}
+
+Seems like the rules attribute isn't doing anything. Probably a conflict with my css defined tables
 
 
 
