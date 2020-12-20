@@ -232,6 +232,10 @@ And here's the more standard math inline  $x_2$ and $x_b$. Might break.
 $$x_a +y_b + \delta_k + z_{z_z}$$
 </article>
 
+Notice that kramdown interprets inline double dollar as inline math. And the script that renders math is seperate from kramdown. 
+So when kramdown parses the text, the inline `$$$$` are replaced with `\(\)` and then it's rendered as inline text. 
+But without the kramdown parsing, it's left as `$$$$` and so katex renders it in display mode.
+
 I should probably change it to use classes for these things. A ".card", ".row", etc would work fine, That's apparently the standard for minimal css stuff like [this one](http://classless.de/)
 
 
