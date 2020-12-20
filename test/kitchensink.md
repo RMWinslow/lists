@@ -162,13 +162,13 @@ Seems like the rules attribute isn't doing much. Probably a conflict with my css
 add markdown="block" or markdown="span" to make the contents render
 
 <div style="float: right">
-  Float right and no **markdown** rendering.
+Float right and no **markdown** rendering.
 </div>
 
 <br>
 
 <div style="float: right" markdown="block">
-  Float right and **markdown** rendering.
+Float right and **markdown** rendering.
 </div>
 
 Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
@@ -178,58 +178,58 @@ Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ip
 Okay and now let's test a collapsible details element.
 
 <details open markdown="block"><summary>Click to expand or collapse</summary>
-  And these are the contents inside of the details element
-  
-  Paragraph caused by *newlines*
-  
-  $$\sum_{i=0}^\infty$$
-  
-  Some good pieces of math $ex_1$ like this one or $ex_2$ this one.
+And these are the contents inside of the details element
+
+Paragraph caused by *newlines*
+
+$$\sum_{i=0}^\infty$$
+
+Some good pieces of math $ex_1$ like this one or $ex_2$ this one.
 </details>
 
 
 <aside markdown="block">
-  If things are set up right, this blurb will be rendered in the margins.   
-  *But* if the page is too skinny, it will be rendered as a little bordered box.
+If things are set up right, this blurb will be rendered in the margins.   
+*But* if the page is too skinny, it will be rendered as a little bordered box.
 </aside>
 
 Right now, sections are set up to follow the basic.css example, and be rendered as flexboxes.
 
 <section markdown="block">
   <section markdown="block">
-    Ello *wee*
+  Ello *wee*
   </section>
   <section markdown="block">
-    - potato
-    - potahto
+  - potato
+  - potahto
   </section>
   <section>
-    Follow your dreams
+  Follow your dreams
   </section>
 </section>
 
 And article is rendered as a litle card thingy.
 
 <article markdown="block">
-  ### Weee a card
-  
-  And let's put **some stuff** in it. $$x_2$$ and $$x_b$$
-  
-  And here's the more standard math inline  $x_2$ and $x_b$. Might break.
-  
-  $$x_a +y_b + \delta_k + z_{z_z}$$
+### Weee a card
+
+And let's put **some stuff** in it. $$x_2$$ and $$x_b$$
+
+And here's the more standard math inline  $x_2$ and $x_b$. Might break.
+
+$$x_a +y_b + \delta_k + z_{z_z}$$
 </article>
 
 Same thing but without markdown rendering
 
 <article>
-  ### Weee a card
-  
-  And let's put some stuff in it. $$x_2$$ and $$x_b$$
-  
-  And here's the more standard math inline  $x_2$ and $x_b$. Might break.
-  
-  $$x_a +y_b + \delta_k + z_{z_z}$$
+### Weee a card
+
+And let's put some stuff in it. $$x_2$$ and $$x_b$$
+
+And here's the more standard math inline  $x_2$ and $x_b$. Might break.
+
+$$x_a +y_b + \delta_k + z_{z_z}$$
 </article>
 
 I should probably change it to use classes for these things. A ".card", ".row", etc would work fine, That's apparently the standard for minimal css stuff like [this one](http://classless.de/)
