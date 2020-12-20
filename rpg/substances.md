@@ -186,3 +186,19 @@ description: Several list of magical substances along with the properties that m
 9. cuttlebone
 10. carbon fiber
 11. marble berry
+
+
+
+
+## Substances from reddit makeyourchoice
+
+Occasionally there will be a post about a weapon crafting choose your own adventure. Sometimes little nuggets of brilliance fall out.
+
+1. [Path of Cultivation](https://old.reddit.com/r/makeyourchoice/comments/k10c9a/path_of_cultivation_v_11_by_cruxador/)
+   1. Cinnabarsilver - changes mass at will
+   2. Adamantium - shard of sky, can't be seen at high speed
+   3. Smokeshadow brazierstone - constantly emits smoke, you can see through the smoke when touching the stone.
+   4. yinyang tiger metal - rapidly oscillating temperatures
+   5. Phoenix PLume - mesmerizing, can create pheonix fire, which burns only the evil
+   6. dragon pearl - reflexively defends you
+   7. qilin horn - has a conscience. can't harm the innocent, but helps target the evil.
