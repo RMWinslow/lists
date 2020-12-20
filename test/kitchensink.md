@@ -145,25 +145,15 @@ and another term
 | cell1   | cell2   | cell3   |
 | cell4   | cell5   | cell6   |
 |=====
-| Foot1   | Foot2   
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|----
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=====
 | Foot1   | Foot2   | Foot3
 {: rules="none"}
 
-Seems like the rules attribute isn't doing anything. Probably a conflict with my css defined tables
+Seems like the rules attribute isn't doing much. Probably a conflict with my css defined tables
 
 
 
 
-
+---
 
 
 
@@ -172,7 +162,7 @@ Seems like the rules attribute isn't doing anything. Probably a conflict with my
 add markdown="block" or markdown="span" to make the contents render
 
 <div style="float: right">
-Float right and no **markdown** rendering.
+  Float right and no **markdown** rendering.
 </div>
 
 <div style="float: right">
@@ -180,31 +170,40 @@ Float right and **markdown** rendering.
 </div>
 {:markdown="block"}
 
-<details markdown="block"><summary>Click to expand or collapse</summary>
+---
+
+Okay and now let's test a collapsible details element.
+
+<details open markdown="block"><summary>Click to expand or collapse</summary>
   And these are the contents inside of the details element
   
   Paragraph caused by *newlines*
+  
+  $$\sum_{i=0}^\infty$$
+  
+  Some good pieces of math $ex_1$ like this one or $ex_2$ this one.
 </details>
 
 
 <aside markdown="block">
-  If things are set up right, this blurb will be rendered in the margins. 
+  If things are set up right, this blurb will be rendered in the margins.   
   *But* if the page is too skinny, it will be rendered as a little bordered box.
 </aside>
 
 Right now, sections are set up to follow the basic.css example, and be rendered as flexboxes.
 
-<section markdown="block"}>
-  <section markdown="block"}>
+<section markdown="block">
+  <section markdown="block">
     Ello *wee*
   </section>
-  <section markdown="block"}>
+  <section markdown="block">
     - potato
     - potahto
   </section>
-  <section markdown="block"}>
+  <section>
     Follow your dreams
   </section>
+  {:markdown="block"}
 </section>
 
 And article is rendered as a litle card thingy.
@@ -212,7 +211,7 @@ And article is rendered as a litle card thingy.
 <article markdown="block">
   ### Weee a card
   
-  And let's put some stuff in it. $$x_2$$ and $$x_b$$
+  And let's put **some stuff** in it. $$x_2$$ and $$x_b$$
   
   And here's the more standard math inline  $x_2$ and $x_b$. Might break.
   
