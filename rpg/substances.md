@@ -65,6 +65,8 @@ description: Several list of magical substances along with the properties that m
 9. turbo drugs
 10. enchantable
 11. iridescent
+12. antimemetic
+13. emits some kind of gas
 
 
 ## Interesting Items from Wikipedia's [list of discredited substances](https://en.wikipedia.org/wiki/List_of_discredited_substances)
