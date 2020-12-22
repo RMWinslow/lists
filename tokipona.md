@@ -145,7 +145,7 @@ There are other toki pona emoji encodings out there, but this one is slightly tw
 |     | wile           |       | to want                     |
 
 
-
+$$\rotatebox[origin=c]{180}{\heartsuit}$$
 
 
 <!--
@@ -582,6 +582,8 @@ wile (e )  |    |    |  to want, need, wish, have to, must, will, should
 wile   |    |    |  to want, need, wish, have to, must, will, should 
 -->
 
+
+$$\htmlData{style="transform: rotate(45deg);"}{\heartsuit}$$
 
 ### Raw tokipona names as katex commands. (Most won't work.)
 
