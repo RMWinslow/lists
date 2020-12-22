@@ -91,8 +91,6 @@ There are other toki pona emoji encodings out there, but this one is slightly tw
 |     | pata           |       | brother                     |
 | $\in$    | pi             |       | belonging to                |
 |     | pilin          |       | feelings                    |
-
-
 | $\colorbox{black}{$\color{white}\lambda$}$    | pimeja         |       | black                       |
 |     | pini           |       | end                         |
 |     | pipi           |       | bug                         |
