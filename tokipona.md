@@ -91,6 +91,9 @@ There are other toki pona emoji encodings out there, but this one is slightly tw
 |     | pata           |       | brother                     |
 | $\in$    | pi             |       | belonging to                |
 |     | pilin          |       | feelings                    |
+
+| symbol   | toki pona |       | Primary English translation |
+|-------|----------------|-------|-----------------------------|
 | $\colorbox{black}{$\color{white}\lambda$}$    | pimeja         |       | black                       |
 |     | pini           |       | end                         |
 |     | pipi           |       | bug                         |
@@ -101,6 +104,9 @@ There are other toki pona emoji encodings out there, but this one is slightly tw
 | $\triangle$    | seli           |       | fire                        |
 | $\partial$    | selo           |       | outside                     |
 |     | seme           |       | what                        |
+
+| symbol   | toki pona |       | Primary English translation |
+|-------|----------------|-------|-----------------------------|
 | $\uparrow$    | sewi           |       | high                        |
 |     | sijelo         |       | body                        |
 | $\bigcirc$    | sike           |       | circle                      |
@@ -110,6 +116,9 @@ There are other toki pona emoji encodings out there, but this one is slightly tw
 | ️$\text{\P}\image$    | sitelen        |       | picture                     |
 |     | sona           |       | knowledge                   |
 |     | soweli         |       | animal                      |
+
+| symbol   | toki pona |       | Primary English translation |
+|-------|----------------|-------|-----------------------------|
 | ️$\top$    | suli           |       | big                         |
 | $\odot$    | suno           |       | sun                         |
 | $\minuso$    | supa           |       | horizontal surface          |
@@ -119,6 +128,9 @@ There are other toki pona emoji encodings out there, but this one is slightly tw
 | $\mapsto$    | tawa           |       | to                          |
 | $\triangledown$    | telo           |       | water                       |
 | ️    | tenpo          |       | time                        |
+
+| symbol   | toki pona |       | Primary English translation |
+|-------|----------------|-------|-----------------------------|
 |     | toki           |       | language                    |
 |     | tomo           |       | indoor constructed space    |
 | $2$    | tu             |       | two                         |
@@ -131,6 +143,11 @@ There are other toki pona emoji encodings out there, but this one is slightly tw
 | ️    | wawa           |       | energy                      |
 |     | weka           |       | away                        |
 |     | wile           |       | to want                     |
+
+
+
+
+
 <!--
 Phonic | Emoji | Hanzi | Meaning
 --- | --- | --- | --- 
