@@ -32,6 +32,7 @@ There are other toki pona emoji encodings out there, but this one is slightly tw
 | $\clubsuit$    | kasi           |       | plant                       |
 | $\checkmark$    | ken            |       | can                         |
 |     | kepeken        |       | use                         |
+|     | kijetesantakalu|       | racoon                      |
 |     | kili           |       | fruit                       |
 |     | kin            |       | also                        |
 | ️    | kipisi         |       | cut                         |
@@ -653,7 +654,7 @@ pana: $\pana$;
 pata: $\pata$;  
 pi: $\pi$;  
 pilinpimeja: $\pilinpimeja$;  
-: $\pimeja$;  
+pimeja: $\pimeja$;  
 pini: $\pini$;  
 pipi: $\pipi$;  
 poka: $\poka$;  
@@ -706,5 +707,5 @@ helium aka 氦 sun vapor| Yin Air
 - Here's another mapping of TokiPona to unicode, this time with etymologies and the like.
 - Here's a forum post mapping tokipona to chinese characters, which goes into detail about the choices they make. I disagree with some of them.
 - Sitelen Emoji
-- And here's a table with just github emojis, 
+- [And here's a table with just github emojis, ](https://omniglot.com/conscripts/sitelenemoji.htm)
 - https://tableconvert.com/
