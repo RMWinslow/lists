@@ -2,8 +2,6 @@
 title: Toki Pona Table with Symbols
 ---
 
-$$\triangledown$$
-
 There are other toki pona emoji encodings out there, but this one is slightly tweaked. I've swapped in math symbols when appropriate.
 
 | symbol   | toki pona |       | Primary English translation |
@@ -26,13 +24,12 @@ There are other toki pona emoji encodings out there, but this one is slightly tw
 | $\Subset$    | insa           |       | inside                      |
 |     | jaki           |       | dirty                       |
 | $\curlywedge$    | jan            |       | person                      |
-| $$\colorbox{gold}{$\lambda$}$$    | jelo           |       | yellow/light green          |
+| ${\color{gold}\lambda}$    | jelo           |       | yellow/light green          |
 | $\owns$    | jo             |       | have                        |
 | $\propto$    | kala           |       | fish                        |
 | $\natural$    | kalama         |       | sound                       |
 |     | kama           |       | come                        |
 | $\clubsuit$    | kasi           |       | plant                       |
-
 | $\checkmark$    | ken            |       | can                         |
 |     | kepeken        |       | use                         |
 |     | kili           |       | fruit                       |
@@ -46,7 +43,7 @@ There are other toki pona emoji encodings out there, but this one is slightly tw
 |     | kulupu         |       | group                       |
 |     | la             |       | sep. (context and sentence) |
 |     | lape           |       | sleep                       |
-| ️$\colorbox{Teal}{$\lambda$}$     | laso           |       | blue/blue-green             |
+| ️${\color{Teal}\lambda}$     | laso           |       | blue/blue-green             |
 |     | lawa           |       | head                        |
 |     | len            |       | clothing                    |
 | ️    | lete           |       | cold                        |
@@ -93,6 +90,8 @@ There are other toki pona emoji encodings out there, but this one is slightly tw
 |     | pata           |       | brother                     |
 | $\in$    | pi             |       | belonging to                |
 |     | pilin          |       | feelings                    |
+
+
 | $\colorbox{black}{$\color{white}\lambda$}$    | pimeja         |       | black                       |
 |     | pini           |       | end                         |
 |     | pipi           |       | bug                         |
