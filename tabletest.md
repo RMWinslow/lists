@@ -1,4 +1,9 @@
-I will copy this table into both my own styling and this one.
+<style>
+  table{overflow-x: scroll;}
+</style>
+
+
+This uses the notes of twinkle twinkle to test a few different ways of rendering songs using erhu notatation.
 
 |   |   |   |   |
 |---|---|---|---|
@@ -13,7 +18,7 @@ I will copy this table into both my own styling and this one.
 |1|1|5|5|6|6|5|-|4|4|3|3|2|2|1|-|
 
 |1155|665-|4433|221-|
-|5544|332-|5544|332-|
+|5544|332-|55<span>4<br>g</span>4|332-|
 |1155|665-|4433|221-|
 
 |1|1|5|5|6|6|5|-|4|4|3|3|2|2|1|-|
@@ -32,4 +37,4 @@ I will copy this table into both my own styling and this one.
 |1|1|5|5|6|6|5|-|4|4|3|3<br>4|2|2|1|-|
 |5|5|4|4|3|3|2|-|5|5|4|4|3|3|2|-|
 |1|1|5|5|6|6|5|-|4|4|3|3|2|2|1|-|
-{: style="width:auto"}
+{: style="width:auto; overflow-x: scroll;"}
