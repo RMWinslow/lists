@@ -1,9 +1,24 @@
 <style>
   table{overflow-x: scroll;}
+  
+  
+  td:nth-child(4n) {
+    background-color: lime;
+    border-right: 4px solid green;
+  }
 </style>
 
 
-This uses the notes of twinkle twinkle to test a few different ways of rendering songs using erhu notatation.
+I can pretty easily type up songs in mathjax, but making it readable in markdown would be even better.
+Just need a good way of dealing with vertically stacked characters, I guess.
+
+Maybe I can include a kramdown frontmatter with the number of notes between the bars, and include a snippet of styletext based on that. 
+Or have a bit of javasript in the head that defines it to be 4 by default, 
+a bit of javascript in the foot that edits the style, 
+and include a single line of js to change the value of that parameter when I need to. 
+
+
+
 
 |   |   |   |   |
 |---|---|---|---|
@@ -24,6 +39,11 @@ This uses the notes of twinkle twinkle to test a few different ways of rendering
 |1|1|5|5|6|6|5|-|4|4|3|3|2|2|1|-|
 |5|5|4|4|3|3|2|-|5|5|4|4|3|3|2|-|
 |1|1|5|5|6|6|5|-|4|4|3|3|2|2|1|-|
+
+|1|1|5|5|6|6|5|-|4|4|3|3|2|2|1|-|
+|5|5|4|4|3|3|2|-|5|5|4|4|3|3|2|-|
+
+<br><br>
 
 |1155|665-|4433<br>123|221-|
 |5544|332-|5544|332-|
