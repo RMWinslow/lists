@@ -1,10 +1,15 @@
 <style>
-  table{overflow-x: scroll;}
+  table{
+    overflow-x: scroll;
+    width:auto;
+    border: 0px;
   
+  }
+  
+  table tr:nth-child(2n){background-color: ;} 
   
   td:nth-child(4n) {
-    background-color: lime;
-    border-right: 4px solid green;
+    border-right: 4px solid black;
   }
 </style>
 
