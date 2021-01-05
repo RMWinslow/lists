@@ -6,13 +6,17 @@
   
   }
   
-  table tr:nth-child(2n){background-color: ;} 
+  table tr:nth-child(2n){background-color: rgba(255, 165, 0, 0);}
+  
+  th, td {vertical-align: top; border: 0px solid; padding: 0.4em}
   
   td:nth-child(4n) {
     border-right: 4px solid black;
   }
 </style>
 
+
+Some of the styling isn't being overtwritten. Hrm.
 
 I can pretty easily type up songs in mathjax, but making it readable in markdown would be even better.
 Just need a good way of dealing with vertically stacked characters, I guess.
