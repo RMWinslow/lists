@@ -11,12 +11,12 @@
   th, td {vertical-align: top; border: 0px solid; padding: 0.4em}
   
   td:nth-child(4n) {
-    border-right: 4px solid black;
+    border-right: 1px solid black;
   }
 </style>
 
 
-Some of the styling isn't being overtwritten. Hrm.
+Some of the styling isn't being overtwritten. No probs. The reset style above worked. Now to try plugging it into the jtd version of the site.
 
 I can pretty easily type up songs in mathjax, but making it readable in markdown would be even better.
 Just need a good way of dealing with vertically stacked characters, I guess.
@@ -46,7 +46,7 @@ and include a single line of js to <u>change the</u> <u><u>value of that paramet
 |1155|665-|4433|221-|
 
 |1|1|5|5|6|6|5|-|4|4|3|3|2|2|1|-|
-|5|5|4|4|3|3|2|-|5|5|4|4|3|3|2|-|
+|5|5|4|4|3|3|2|-|5|5|4|<u>4</u>|3|3|2|-|
 |1|1|5|5|6|6|5|-|4|4|3|3|2|2|1|-|
 
 |1|1|5|5|6|6|5|-|4|4|3|3|2|2|1|-|
