@@ -18,6 +18,18 @@
 
 Some of the styling isn't being overtwritten. No probs. The reset style above worked. Now to try plugging it into the jtd version of the site.
 
+
+html entities can be used to add marks for octaves and eight notes
+
+|3&#775;|`3&#775;`|
+|3&#776;|`3&#776;`|
+|3&#778;|`3&#775;`|
+|3&#803;|`3&#803;`|
+|3&#804;|`3&#804;`|
+|3&#805;|`3&#805;`|
+
+
+
 I can pretty easily type up songs in mathjax, but making it readable in markdown would be even better.
 Just need a good way of dealing with vertically stacked characters, I guess.
 
