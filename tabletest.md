@@ -24,7 +24,7 @@ Just need a good way of dealing with vertically stacked characters, I guess.
 Maybe I can include a kramdown frontmatter with the number of notes between the bars, and include a snippet of styletext based on that. 
 Or have a bit of javasript in the head that defines it to be 4 by default, 
 a bit of javascript in the foot that edits the style, 
-and include a single line of js to change the value of that parameter when I need to. 
+and include a single line of js to <u>change the</u> <u><u>value of that parameter</u></u> when I need to. 
 
 
 
