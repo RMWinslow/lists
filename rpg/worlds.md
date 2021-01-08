@@ -4,11 +4,12 @@ description: Several axes along which alternate realities can vary. Based on an 
 ---
 
 <style>
-  tr:nth-child(-n+2){background-color:red;}
-  tr:nth-child(n+3):nth-child(-n+18){background-color:#ffff0055;}
-  tr:nth-child(n+19){background-color:red;}
-  
-  li:nth-child(n+):nth-child(-n+15){background-color:red;}
+tr:nth-child(n+1):nth-child(-n+20) {background-color: #ff000055;}
+tr:nth-child(n+3):nth-child(-n+18) {background-color: #ffff0055;}
+tr:nth-child(n+5):nth-child(-n+16) {background-color: #00ff0055;}
+li:nth-child(n+1):nth-child(-n+20) {background-color: #ff000055;}
+li:nth-child(n+3):nth-child(-n+18) {background-color: #ffff0055;}
+li:nth-child(n+5):nth-child(-n+16) {background-color: #00ff0055;}
 </style>
 
 
