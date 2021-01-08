@@ -5,6 +5,8 @@ description: Several axes along which alternate realities can vary. Based on an 
 
 <style>
   li:nth-child(n+8):nth-child(-n+15){background-color:lime;}
+  
+  tr:nth-child(n+8):nth-child(-n+15){background-color:red;}
 </style>
 
 
