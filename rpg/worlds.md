@@ -45,10 +45,6 @@ ol li::before {content: '.' counter(li) ;
 1. test
 1. test
 1. test
-1. test
-1. tes
-1. test
-1. test
 
 
 
