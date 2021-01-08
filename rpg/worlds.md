@@ -4,8 +4,6 @@ description: Several axes along which alternate realities can vary. Based on an 
 ---
 
 <style>
-  li:nth-child(n+8):nth-child(-n+15){background-color:lime;}
-  
   tr:nth-child(n+8):nth-child(-n+15){background-color:red;}
 </style>
 
@@ -14,25 +12,31 @@ description: Several axes along which alternate realities can vary. Based on an 
 
 
 1. test
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-19.
-20.
+1. test
+1. test
+1. test
+1. test
+1. test
+1. test
+1. test
+1. test
+1. test
+1. test
+1. test
+1. test
+1. test
+1. test
+1. test
+1. test
+1. test
+1. test
+1. test
+1. test
+1. test
+1. test
+1. test
+1. test
+1. test
 
 
 
