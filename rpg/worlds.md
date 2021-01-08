@@ -7,6 +7,7 @@ description: Several axes along which alternate realities can vary. Based on an 
   tr:nth-child(-n+2){background-color:red;}
   tr:nth-child(n+3):nth-child(-n+18){background-color:#ffff0055;}
   tr:nth-child(n+19){background-color:red;}
+  
   li:nth-child(n+):nth-child(-n+15){background-color:red;}
 </style>
 
