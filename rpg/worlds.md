@@ -7,9 +7,18 @@ description: Several axes along which alternate realities can vary. Based on an 
 tr:nth-child(n+1):nth-child(-n+20) {background-color: #ff000055;}
 tr:nth-child(n+3):nth-child(-n+18) {background-color: #ffff0055;}
 tr:nth-child(n+5):nth-child(-n+16) {background-color: #00ff0055;}
-li:nth-child(n+1):nth-child(-n+20) {background-color: #ff000055;}
-li:nth-child(n+3):nth-child(-n+18) {background-color: #ffff0055;}
-li:nth-child(n+5):nth-child(-n+16) {background-color: #00ff0055;}
+li:nth-child(n+1):nth-child(-n+20) {background-color: #ffcccc;}
+li:nth-child(n+3):nth-child(-n+18) {background-color: #ffffcc;}
+li:nth-child(n+5):nth-child(-n+16) {background-color: #ccffcc;}
+li:nth-child(n+1):nth-child(-n+20)::before {background-color: #ffcccc;}
+li:nth-child(n+3):nth-child(-n+18)::before {background-color: #ffffcc;}
+li:nth-child(n+5):nth-child(-n+16)::before {background-color: #ccffcc;}
+
+ol {list-style: none; counter-reset: li}
+li {counter-increment: li}
+ol li::before {content: '.' counter(li) ; 
+    display: inline-block; width: 2em; margin-left: -1.5em;
+    margin-right: 0.5em; text-align: right; direction: rtl}
 </style>
 
 
