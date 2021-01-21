@@ -1,7 +1,11 @@
 
+[Twitter thread about GPT 3 being used for medical diagnoses](https://twitter.com/colinmegill/status/1351830790456311808)
+The punchline is GPT being able to instantly. diagnose the guy's problem when it took several specialists and several decades to get the problem diagnosed in real life. But also temper this amazement with a screenshot where GPT is unable to say how many eyes a horse has.
 
-- [Twitter thread about GPT 3 being used for medical diagnoses](https://twitter.com/colinmegill/status/1351830790456311808)
-- [Wiki: Mythological Ages of Man](https://en.wikipedia.org/wiki/Ages_of_Man)
+[Wiki: Mythological Ages of Man](https://en.wikipedia.org/wiki/Ages_of_Man).
+Going from the Golden Age, when men walked among the gods and food was plenty, to the Iron Age, where might makes right and babies are born with grey hair.
+
+
 - []()
 - []()
 
