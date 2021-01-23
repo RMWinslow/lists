@@ -9,4 +9,4 @@ Going from the Golden Age, when men walked among the gods and food was plenty, t
 
 [Wiki: Georgia Guidestones](https://en.wikipedia.org/wiki/Georgia_Guidestones). Saw it dscribed on social media as "instructions to rebuild civilization" carved in stone in 8 different languages. But sadly the message is nothing of the sort. If I ever become ludicrously wealthy, maybe I will carve some actually useful giant stone tablets.
 
-
+[FedEx Shipping Damage Creates Fractured Artworks](https://kottke.org/21/01/fedex-shipping-damage-creates-fractured-artworks)
