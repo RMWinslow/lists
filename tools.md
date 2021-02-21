@@ -20,3 +20,25 @@ description: This page has links to webpages which are useful single-use "tools"
 
 [Labdoor](https://labdoor.com/)
 : Provides rankings and ingredient info on supplements. [eg](https://labdoor.com/rankings/magnesium)
+
+
+## Colors
+
+[Colormind](http://colormind.io/bootstrap/)
+: Website color pallette generator
+
+[Color Brewer](https://colorbrewer2.org/)
+: Color advice for cartography. Gives you a set of easy to read perceptually uniform color schemes for maps.
+
+[Coolors](https://coolors.co/palettes/trending)
+: Another color palette generator. Just for prettiness; not for website. See also [poolors](https://poolors.com/), the ugly color scheme generator.
+
+
+
+
+## Formatting Tools
+
+https://www.tablesgenerator.com/markdown_tables#
+
+
+
