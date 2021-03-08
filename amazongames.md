@@ -6,10 +6,13 @@ description: "This is a list of games that I've claimed on my Amazon Prime accou
 This is a poorly advertised and difficult to access feature, originally associated with Amazon's aquisition of Twitch.
 
 Can claim games [at this link.](https://gaming.amazon.com/home).
-Decent summaries [here.](https://www.indiegamebundles.com/tag/amazon-prime-gaming/)
+<!--Decent summaries [here.](https://www.indiegamebundles.com/tag/amazon-prime-gaming/)-->
 
 
+---
 
+Bad. Meh. Okay. Good.
+Only bad, neither good nor bad bits, a mixed of good and bad, only good.
 
 ---
 
@@ -18,8 +21,14 @@ Decent summaries [here.](https://www.indiegamebundles.com/tag/amazon-prime-gamin
 
 - Sine Mora Ex
 - The Academy (The First Riddle)
+    - Bad. Puzzles.
+    - It's a professor Layton style puzzle game, but the instructions and solutions are poorly translated, which ruins it. The *very first* puzzle has a errors in the solution translation. 
 - Adventures of Chris
+    - Okay. 2D Platformer.
+    - Some cute bits, some fun characters. But also some really janky platforming sections.
 - Spinch
+    - Meh. 2D Platformer.
+    - Cute style but nothing special.
 - Monster Prom: Hotseat Edition
 - Swimsanity! (local only)
 - Table Manners
@@ -42,6 +51,8 @@ Decent summaries [here.](https://www.indiegamebundles.com/tag/amazon-prime-gamin
 - Genesis Alpha One
 - A Knight's Quest
 - STick it to the Man!
+    - Good. 2D Platformer.
+    - Great style, fun mechanics, but man, the character dialogue is just too long winded and on the nose.
 - The Occupation
 - Aurion: Legacy of the Kori-Odan
 - Victor VRan
@@ -66,7 +77,7 @@ Decent summaries [here.](https://www.indiegamebundles.com/tag/amazon-prime-gamin
 - Mark of the Wolves
 - Vostock Inc.
 - Effie
-    - Meh. 3D Platformer.
+    - Okay. 3D Platformer.
     - The overworld surfing mechanic is really fun, but the dungeons and combat are plodding.
 - OutcastSecond Contact
 - Tiny Troopers Join Ops
@@ -79,6 +90,8 @@ Decent summaries [here.](https://www.indiegamebundles.com/tag/amazon-prime-gamin
 - SNK 40th Anniversary
 - Shaw Fu: A Legend Reborn
 - The Inner World
+    - Bad. Point and Click
+    - I like the concept of the world (weird worm people living inside a dirt ball) but the game is glitchy, poorly ported from mobile, and wastes just so much time.
 - Warsaw
 - Dead In Vinland
 - Teachery in Beatdown City
@@ -135,6 +148,8 @@ Decent summaries [here.](https://www.indiegamebundles.com/tag/amazon-prime-gamin
 - Hober
 - When Ski Lifts Go Wrong
 - Hue
+    - Bad. 2D Platformer
+    - Simple little game about a small child in a dangerous world. Occasionally it makes you walk through longer corridors while a voiceover waxes philosophically about color. And it irrationally annoyed me because all the stuff it says about colors is BS. No purple is not the farthest color, nor the most difficult for our eyes to distinguish. No, it's not a cultural universal that every culture calls the sky blue. And why on earth does this simple 2D platformer make my graphics card scream out in pain?! Are the background particle effects really that unoptimized?
 - Toe Jam & Earl
 - Turmoil
 - Sword Legacy Omen
@@ -174,6 +189,9 @@ Decent summaries [here.](https://www.indiegamebundles.com/tag/amazon-prime-gamin
 - The Swords of Ditto
 - Snake Pass
 - Pikuniku
+    - Good. 2D Platformer. 
+    - Local: a few puzzle levels.
+    - Short but whimsical, with a good mix of platforming and minigames.
 - Straff
 - Sanitarium
 - Cosmic Express
@@ -190,6 +208,7 @@ Decent summaries [here.](https://www.indiegamebundles.com/tag/amazon-prime-gamin
 - Dear Esther
 - Death Squared
 - The Metronomicon
+    - Local:
 - Aegis Defenders
 - Whispering Willows
 - Overload
@@ -205,6 +224,8 @@ Decent summaries [here.](https://www.indiegamebundles.com/tag/amazon-prime-gamin
 - Stealth Inc. 2 
 - Yoku's Island Express
 - Automachef
+    - Bad. Puzzle Thingy
+    - One of those automation games, but the hook just isn't good and it starts off with needless complexity.
 - Mable and the Wood
 - Wonder Boy: The Dragon's Trap
 - Pump BMX Pro

@@ -14,3 +14,26 @@ The NIST's sneaky rng backdoor
 
 [Image Display Technology](http://www.marcelpatek.com/LCD.html)
 : An article with lots of pictures comparing the physics of CRT vs LCD monitors.
+
+
+[Multi-Modal Nuerons in AI](https://openai.com/blog/multimodal-neurons/)
+: New AI can associate pictures of a thing with drawings and dscriptions of the thing. Impressive. But a side effect of this is that you can write iPod on an apple and the AI will think it's an iPod.
+
+
+[Petit Tube](https://petittube.com/)
+: Random Youtube videos with almost no views.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
