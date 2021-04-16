@@ -14,3 +14,14 @@ The NIST's sneaky rng backdoor
 
 [Image Display Technology](http://www.marcelpatek.com/LCD.html)
 : An article with lots of pictures comparing the physics of CRT vs LCD monitors.
+
+
+
+
+
+
+
+
+
+
+https://www.designedbycave.co.uk/2020/LEGO-Interface-UX/
