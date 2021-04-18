@@ -14,11 +14,26 @@ Can claim games [at this link.](https://gaming.amazon.com/home).
 Bad. Meh. Okay. Good.
 Only bad, neither good nor bad bits, a mixed of good and bad, only good.
 
+
+|              | Bad bits | No Bad bits |
+|:-:|:-:|:-:|
+| **Good bits**    | Okay     | Good        |
+| **No Good bits** | Bad      | Meh         |
+
 ---
 
 
 ## Full list In reverse chrono order
 
+- Jim Henson's The Dark Crystal Age of Resistance Tactics
+- Escape Machine City Airborne
+- Optica
+- Tengami
+    - Bad. Nothing
+    - I think it's trying to a puzle game. But the gameplay loop is click on a glowing dot, wait a full minute for your little guy to slowly walk over to it, then click on the new glowing dot that appears.
+- Blasphemous
+- SkyDrift
+- Boomerang Fu
 - Sine Mora Ex
 - The Academy (The First Riddle)
     - Bad. Puzzles.

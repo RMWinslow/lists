@@ -3,6 +3,17 @@ title: Useful Links
 description: This page has links to webpages which are useful single-use "tools"
 ---
 
+## Arithmetic
+
+[Desmos Calculator](https://www.desmos.com/calculator)
+: Real time equation rendering. Better than typing the equation into wolfram like I've been doing for visualizations.
+
+
+
+
+
+## The Skies
+
 [Light Pollution Map](https://www.lightpollutionmap.info/#zoom=4.00&lat=40.3141&lon=-94.5941&layers=B0FFFFFTFFFFFFFFFF)
 : Shows an estimate of how far the light pollution from cities spreads. Useful for finding stargazing locations.
 

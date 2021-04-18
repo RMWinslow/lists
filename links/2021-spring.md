@@ -23,16 +23,38 @@ The NIST's sneaky rng backdoor
 [Petit Tube](https://petittube.com/)
 : Random Youtube videos with almost no views.
 
+[Phylotree.js](http://phylotree.hyphy.org/)
+: Can paste in a Newick style tree, and it will display it as a pretty phylogenetic tree.
+
+
+[Global Burden of Disease Data](http://ghdx.healthdata.org/gbd-2017/code)
+: Some cool visualizations of various international health stuff. For example, [this comparison](https://gbd2017.healthdata.org/gbd-compare/) of global DALY loss. Note that it's not number of deaths; it's years of lost life expectancy or quality of life. More graphs and stuff [here.](http://www.healthdata.org/gbd/data-visualizations)
+
+
+[Wrestling: The Oldest Sport](https://nwhof.org/stillwater/resources-library/history/the-oldest-sport/)
+: Did you know that wrestling is an ancient and near universal cultural practice? George Washington, Abraham Lincoln and Plato: all professional wrestlers. Also, there's a random broken english sentence linking to a defunct shady chinese pharmaceuticals website in the middle of an otherwise well-written article. Did the National Wrestling Hall of Fame get hacked or something?
+
+
+[National Libary of Scotland - Maps](https://maps.nls.uk/index.html)
+: A website with scans of historical maps and the ability to overlay them on top of a standard zoomable web map. In particular, check out this stylish [set of world maps from 1920](https://maps.nls.uk/atlas/times-survey/index.html) and in particular [this compilation](https://maps.nls.uk/view/101105572) of historical world maps; or this hand drawn [military survey of scotland](https://maps.nls.uk/geo/roy/#zoom=7.232851306515763&lat=57.3230&lon=-4.7536&layers=roy-highlands).
+
+
+Pam Jiles
+: Proud otaku politician from Chile. [Did a Naruto run in congress.](https://www.youtube.com/watch?v=PN8e77oJUyM) [.](https://twitter.com/PamJiles) [.](https://twitter.com/PopulismUpdates/status/1374135225920331777)
+
+
+[Chernozem](https://en.wikipedia.org/wiki/Chernozem)
+: Ukraine is one of the places where Chernozem can be found. It's really high quality black soil. It wasn't until recently in 2020 that [Ukraine repealed the ban on the sale of farmlands](https://www.euronews.com/2020/03/31/ukraine-lifts-ban-on-sale-of-farmland-in-bid-to-receive-international-funds
+). But even before that, according to [this op-ed](https://www.kyivpost.com/article/opinion/op-ed/black-market-for-rich-black-earth-116610.html), there was a thriving black market for the soil itself.
+
+
+[Suez Canal got blocked](https://twitter.com/jsrailton/status/1374438210315513864)
+: Woopsy. The boat driver done got the thing stuck in there sideways. Vessel is the [Ever Given](https://www.vesselfinder.com/vessels/EVER-GIVEN-IMO-9811000-MMSI-353136000). Apparently not the first time this boat has had [troubles](https://en.wikipedia.org/wiki/Ever_Given).
 
 
 
-
-
-
-
-
-
-
+Assorted fantasy map generators
+: [This one has interactive example widgets,](http://mewo2.com/notes/terrain/) and [here's a twitter bot](https://twitter.com/unchartedatlas) that tweets examples every hour. The names are [generated algorithmically](http://mewo2.com/notes/naming-language/) as well. [Collection](https://olinkirk.land/realms/resources.html) of map-related links. [City generator](https://watabou.itch.io/medieval-fantasy-city-generator). [Azgaar's map generator](https://azgaar.github.io/Fantasy-Map-Generator/).
 
 
 
