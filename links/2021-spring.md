@@ -67,4 +67,5 @@ Assorted fantasy map generators
 
 
 
-https://www.designedbycave.co.uk/2020/LEGO-Interface-UX/
+[Lego User Interfaces](https://www.designedbycave.co.uk/2020/LEGO-Interface-UX/)
+: Compares and ranks the fake computer interfaces printed on Lego blocks. Lots of interesting tidbits about interface design in general. When the B-52 was originally designed, the knobs all looked the same, which led to pilots retracting the wheels during landing.
