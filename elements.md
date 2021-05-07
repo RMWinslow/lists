@@ -51,3 +51,85 @@ helium aka 氦 sun vapor| Yin Air
 - [English-Chinese Periodic Table of Elements](https://www.pascal-man.com/periodic-table/periodictable-dave-lo.pdf)
 - [A list of element names goofily adapted to only use germanic roots.](https://anglish.fandom.com/wiki/Fading_of_Ormotes)
 - [Another hanzi decomposition tool.](https://www.yellowbridge.com/chinese/character-dictionary.php)
+
+
+---
+
+
+
+## Alchemical Symbols
+
+*Works best with a font like [Quivira](http://quivira-font.com/) installed.*
+
+### Classic Elements
+| 🜀 | 🜁 | Δ | 🜃 | ∇ |
+|:-:|:-:|:-:|:-:|:-:|
+| aether | air | fire | earth | water |
+
+### Solvents
+|Symbol|Alchem Name|Chem Name|
+|:-:|:-:|:-:|
+|🜅| aqua fortis | nitric acid |
+| 🜆 🜇 | aqua regia | nitric+hydrochloric acid mix |
+| 🜈 🜉 | aqua vitae | ethanol |
+|  ⵜ 🜋 🜌 | vinegar | acetic acid |
+
+
+
+
+### Elements
+
+|Symbol|Element|
+|:-:|:-:|
+|  |  |
+| 🜍 🜎 🜏 |Sulfur |
+| 🜚 | Gold |
+| 🜛 | Silver |
+|  | Tin |
+| 🜺 | Arsenic |
+|  | Bismuth |
+
+
+### Common Substances
+
+
+
+|Symbol|Element|
+|:-:|:-:|
+|🝂 🝃 🝄| Borax |
+| 🝅 | Alum |
+| 🝆 | Oil |
+| 🝉 | Gum |
+| 🝊 | Wax |
+| 🝓 | Lodestone |
+| 𐊔 | Soap |
+| 🝕 | Urine |
+| 🝖 | Horse dung |
+| 🝘 | Potash |
+| 🝙 (🝚) | Brick (powdered) |
+| 🝋 | Powder | 
+
+
+
+
+
+<!--https://www.breakingatom.com/alchemy
+
+
+
+1F71 🜐 🜑 🜒 🜓 Ɵ ⵀ 🜖 🜗 🜘 🜙   🜜 🜝 🜞 🜟
+1F72 🜠 🜡 🜢 🜣 🜤 🜥 🜦 🜧 🜨 🜩 🜪 🜫 🜬 🜭 🜮 🜯
+1F73 🜰 🜱 🜲 🜳 🜴 🜵 🜶 🜷 🜸 🜹  🜻 🜼 🜽 🜾 🜿
+1F74 🝀 🝁   🝇 🝈    🝌 🝍 🝎 🝏
+1F75 🝐 🝑 🝒     🝗   🝛 🝜 🝝 🝞 🝟
+1F76 🝠 🝡 🝢 🝣 🝤 🝥 🝦 🝧 T 🝩 🝪 🝫 🝬 🝭 🝮 🝯
+1F77 🝰 🝱 🝲 🝳
+
+-->
+
+
+
+
+
+
+
